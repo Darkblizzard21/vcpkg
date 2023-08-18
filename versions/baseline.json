@@ -8136,6 +8136,10 @@
       "baseline": "2019-08-06",
       "port-version": 3
     },
+    "tinyddsloader": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "tinydir": {
       "baseline": "1.2.5",
       "port-version": 0
